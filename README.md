@@ -19,7 +19,7 @@ You have to put sounds and pictures in correct positions in the data. and you ca
 
 #### Download
 ```console
-git clone https://github.com/m-inan/react-native-music-app
+git clone https://github.com/InternetRembo/my-musick.git
 cd react-native-music-app
 ```
 
