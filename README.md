@@ -6,12 +6,6 @@ A mobile application built using React Native
   <img src="https://github.com/m-inan/react-native-music-app/blob/master/images/screen.gif?raw=true" alt="animated" />
 </p>
 
-## Reanimated V2
-> Due to performance issues, this example has been rewritten using [React Native Reanimated V2](https://github.com/software-mansion/react-native-reanimated) You can check this branch for [Animated API](https://github.com/m-inan/react-native-music-app/tree/animated_api).
-
-## Track Player
-> [React Native Track Player](https://github.com/react-native-kit/react-native-track-player) package is used for this example. However, since the release version does not have "Shuffle" and "Repeat" features, [this](https://github.com/m-inan/react-native-track-player) repository is used.
-
 ## Features
 
 - Offline Playing
@@ -60,12 +54,3 @@ yarn android
 - [Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler)
 - [Track Player](https://github.com/m-inan/react-native-track-player)
 - [SafeArea Context](https://github.com/th3rdwave/react-native-safe-area-context)
-
-### Reporting Issues
-If believe you've found an issue, please [report it](https://github.com/m-inan/react-native-music-app/issues) along with any relevant details to reproduce it.
-
-### Asking for help 
-Please do not use the issue tracker for personal support requests. Instead, use StackOverflow.
-
-### Contributions 
-Yes please! Feature requests / pull requests are welcome.
